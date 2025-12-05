@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.class01.class02{
+    font-size: 28px;
+    font-family: Helvetica ,Times New Roman ,sans-serif ;
+
+}
+.class01{
+    color: white;
+    background-color: black;
+
+}
+.class02{
+    color: black;
+    background-color: rgb(178, 218, 0);
+   
+}
+
+
