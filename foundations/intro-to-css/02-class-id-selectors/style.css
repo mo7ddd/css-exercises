@@ -1,1 +1,29 @@
-/* Add CSS Styling */
+.class01{
+    
+    font-size: 36px;
+    background-color: rgb(red, green, blue);
+    font-family: 'Verdana ', DejaVu Sans, sans-serif;
+  
+}
+#id01{
+    font-size: 36px;
+}
+.class02{
+
+    font-size: 24px;
+    color: green;
+}
+/*
+    In the id selector 'four' below, we could have also
+    added a rule to set the font size to 24px.
+
+    However, since the elements 'Number 3' and 'Number 4'
+    in the HTML file share the same font size, we reused
+    the 'adjust-font-size' class above to help reduce
+    duplicate code.
+*/
+#id02{
+    background-color: hsl(1900%, saturation, lightness);
+    font-weight: bold;
+    font-size: 24px;
+}
